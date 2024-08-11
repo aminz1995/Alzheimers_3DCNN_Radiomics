@@ -23,7 +23,7 @@ This repository includes code for implementing a 3D Convolutional Neural Network
 
 Below is an image of the model architecture used in this study:
 
-![Model Architecture](path/to/model_image.png)
+![Model Architecture](images/model.png)
 
 ## Usage
 
