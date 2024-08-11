@@ -1,0 +1,4 @@
+mean of acc on test set: 0.5612406829113391
+
+
+mean of auc on test set: 0.5687952539368009

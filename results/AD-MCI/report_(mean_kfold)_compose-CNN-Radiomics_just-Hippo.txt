@@ -1,0 +1,10 @@
+mean of acc on test set 1 : 0.56575907439539
+mean of acc on test set 2 : 0.5780109289177255
+mean of acc on test set 3 : 0.5612406829113391
+mean of acc on test set mv: 0.5747767842906626
+
+
+mean of auc on test set 1: 0.5702118705471975
+mean of auc on test set 2: 0.5687799898429882
+mean of auc on test set 3: 0.5688176463503417
+mean of auc on test set mv: 0.5833290442205912
