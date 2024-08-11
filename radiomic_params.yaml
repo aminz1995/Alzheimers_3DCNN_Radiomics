@@ -1,0 +1,75 @@
+
+setting:
+  normalize: true
+  normalizeScale: 100
+  voxelArrayShift: 300
+  binWidth: 5
+  label: 1
+  interpolator: 'sitkBSpline'
+  # resampledPixelSpacing: [3, 3, 3]
+  weightingNorm:
+
+imageType:
+  Original: {}
+  LoG: {'sigma': [1.0, 3.0]}  # Laplacian of Gaussian   
+  Wavelet: {}
+  Square: {}
+  SquareRoot: {}
+  Logarithm: {}
+  Exponential: {}
+  Gradient: {}
+  #LBP2D: {}
+  LBP3D: {}
+
+
+featureClass:
+  shape: 
+    - VoxelVolume
+    - MeshVolume
+    - SurfaceArea
+    - SurfaceVolumeRatio
+    - Compactness1
+    - Compactness2
+    - Sphericity
+    - SphericalDisproportion
+    - Maximum3DDiameter
+    - Maximum2DDiameterSlice
+    - Maximum2DDiameterColumn
+    - Maximum2DDiameterRow
+    - MajorAxisLength
+    - MinorAxisLength
+    - LeastAxisLength
+    - Elongation
+    - Flatness
+    
+  firstorder: []
+  
+  glcm: 
+    - 'Autocorrelation'
+    - 'JointAverage'
+    - 'ClusterProminence'
+    - 'ClusterShade'
+    - 'ClusterTendency'
+    - 'Contrast'
+    - 'Correlation'
+    - 'DifferenceAverage'
+    - 'DifferenceEntropy'
+    - 'DifferenceVariance'
+    - 'JointEnergy'
+    - 'JointEntropy'
+    - 'Imc1'
+    - 'Imc2'
+    - 'Idm'
+    - 'Idmn'
+    - 'Id'
+    - 'Idn'
+    - 'InverseVariance'
+    - 'MaximumProbability'
+    - 'SumEntropy'
+    - 'SumSquares'
+    
+  glrlm: []
+  glszm: []
+  gldm: []
+  ngtdm: []
+  
