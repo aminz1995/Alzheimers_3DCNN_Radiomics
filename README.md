@@ -23,7 +23,7 @@ This repository includes code for implementing a 3D Convolutional Neural Network
 
 Below is an image of the model architecture used in this study:
 
-![Model Architecture](https://github.com/aminz1995/Alzheimers_3DCNN_Radiomics/raw/main/images/model.jpg)
+![Model Architecture](images/model.jpg)
 
 ## Usage
 
