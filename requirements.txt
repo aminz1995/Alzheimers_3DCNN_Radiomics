@@ -1,0 +1,3 @@
+# Packages listed in this project should be updated and installed manually.
+# To update or install a package, please use:
+# pip install --upgrade <package_name>
