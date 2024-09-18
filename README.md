@@ -1,7 +1,7 @@
 # Automated Classification of Alzheimer's Disease Using 3D CNNs and Radiomic Features from T1-weighted MRI
 This repository contains the code for the article titled:
 
-**"Automated Classification of Alzheimer's Disease, Mild Cognitive Impairment, and Cognitively Normal Patients Using 3D Convolutional Neural Network and Radiomic Features from T1-Weighted Brain MRI: A Comparative Study on Detection Accuracy"**
+**"Automated classification of Alzheimer's disease, mild cognitive impairment, and cognitively normal patients using 3D convolutional neural network and radiomic features from T1-weighted brain MRI: A comparative study on detection accuracy"**
 
 ## Citation
 
