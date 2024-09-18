@@ -7,7 +7,14 @@ This repository contains the code for the article titled:
 
 If you use this code in your research, please cite our paper:
 
-*Author(s). (Year). Automated Classification of Alzheimer's Disease, Mild Cognitive Impairment, and Cognitively Normal Patients Using 3D Convolutional Neural Network and Radiomic Features from T1-Weighted Brain MRI: A Comparative Study on Detection Accuracy. [Journal/Conference]. [Link to Paper]*
+Amin Zarei, Ahmad Keshavarz, Esmail Jafari, Reza Nemati, Akram Farhadi, Ali Gholamrezanezhad, Habib Rostami, Majid Assadi,
+Automated classification of Alzheimer's disease, mild cognitive impairment, and cognitively normal patients using 3D convolutional neural network and radiomic features from T1-weighted brain MRI: A comparative study on detection accuracy,
+Clinical Imaging,
+2024,
+110301,
+ISSN 0899-7071,
+https://doi.org/10.1016/j.clinimag.2024.110301.
+(https://www.sciencedirect.com/science/article/pii/S0899707124002316)
 
 ## Overview
 
